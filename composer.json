@@ -9,7 +9,6 @@
     ],
     "require": {
     "php": ">=5.4.0",
-        "willotter/funny-jokes": "^0.2.1",
-        "gregwar/tex2png": "dev-master"
+        "willotter/funny-jokes": "^0.2.1"
     }
 }
