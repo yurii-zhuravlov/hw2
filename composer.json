@@ -6,5 +6,7 @@
             "email": "jovany@ua.fm"
         }
     ],
-    "require": {}
+    "require": {
+        "willotter/funny-jokes": "^0.2.1"
+    }
 }
