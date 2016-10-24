@@ -1,5 +1,6 @@
 {
     "name": "root/public_html",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Jovany",
@@ -7,6 +8,8 @@
         }
     ],
     "require": {
-        "willotter/funny-jokes": "^0.2.1"
+    "php": ">=5.4.0",
+        "willotter/funny-jokes": "^0.2.1",
+        "nmcteam/image-with-text": "^2.0"
     }
 }
