@@ -9,6 +9,7 @@
     ],
     "require": {
     "php": ">=5.4.0",
-        "willotter/funny-jokes": "^0.2.1"
+        "willotter/funny-jokes": "^0.2.1",
+        "nmcteam/image-with-text": "^2.0"
     }
 }
